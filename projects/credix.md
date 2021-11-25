@@ -1,6 +1,6 @@
 ---
 slug: "credix"
-date: "2021-10-27"
+date: "2021-11-25"
 title: "Credix"
 logline: "Democratizing credit investing with a positive impact"
 cta: "https://credix.finance"
